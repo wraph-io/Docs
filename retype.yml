@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: wraph-io.github.io
+branding:
+  title: Wraph
+  label: Docs
+links:
+- text: Getting Started
+  link: getting-started
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
